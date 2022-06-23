@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-I/static/css/main.4a4a8c7e.css",
+    "main.js": "/portfolio-I/static/js/main.b2c8a6f9.js",
+    "static/media/aboutMe2.png": "/portfolio-I/static/media/aboutMe2.5e672f7799598f688412.png",
+    "static/media/sheraspace3.png": "/portfolio-I/static/media/sheraspace3.b3bfbeb414ddf273c942.png",
+    "static/media/headerPhoto.png": "/portfolio-I/static/media/headerPhoto.8ebb3f4ffd422a5c9a21.png",
+    "static/media/calculator4.jpg": "/portfolio-I/static/media/calculator4.20ad16b53c7c1fce3e7b.jpg",
+    "static/media/admin3.png": "/portfolio-I/static/media/admin3.b8a6d6527279d9fe37de.png",
+    "static/media/covid19.png": "/portfolio-I/static/media/covid19.1bcc8035e578a6dda346.png",
+    "static/media/resturant2.png": "/portfolio-I/static/media/resturant2.e7763c23d79af7fd467a.png",
+    "static/media/games2.jpg": "/portfolio-I/static/media/games2.213400119b51cd430856.jpg",
+    "index.html": "/portfolio-I/index.html",
+    "main.4a4a8c7e.css.map": "/portfolio-I/static/css/main.4a4a8c7e.css.map",
+    "main.b2c8a6f9.js.map": "/portfolio-I/static/js/main.b2c8a6f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4a8c7e.css",
+    "static/js/main.b2c8a6f9.js"
+  ]
+}
